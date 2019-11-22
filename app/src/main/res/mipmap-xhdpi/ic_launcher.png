@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="pixel" />
+        <device id="4in WVGA (Nexus S)" />
+        <device id="pixel_3_xl" />
+        <device id="pixel_3a_xl" />
+        <device id="Nexus 7" />
+        <device id="pixel_3" />
+        <device id="tv_1080p" />
+        <device id="Nexus 10" />
+        <device id="8in Foldable" />
+        <device id="3.3in WQVGA" />
+      </config>
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
+    <option name="TOOL_WINDOW_REGEXP_FILTER" value="false" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="10388356-7d23-481e-827b-87f3d4afff39" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_menu__pesan_masuk_detail.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_menu__pesan_masuk_detail.xml" afterDir="false" />
+    </list>
+    <list id="00838fec-f02d-4ec5-81e9-938b8e26a7ac" name="Fix login UI + scroll keyboard" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="emulator-5554" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="sisamsul5" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="sisamsul5" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_menu__pesan_masuk_detail.xml">
+          <provider selected="true" editor-type-id="android-designer2" />
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="-2175">
+              <caret line="52" column="26" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="valueResourceFile" />
+        <option value="Interface" />
+        <option value="layoutResourceFile" />
+        <option value="Singleton" />
+        <option value="resourceFile" />
+        <option value="Class" />
+        <option value="layoutResourceFile_vertical" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>CB_instruksi_ya</find>
+      <find>textView10</find>
+      <find>txt_notif_pesanmasuk</find>
+      <find>txt_pegawai</find>
+      <find>txt_kepada</find>
+      <find>Dialog_</find>
+      <find>DialogPasswordShow</find>
+      <find>passcheck</find>
+      <find>set</find>
+      <find>post_persetujuan</find>
+      <find>dialog_paraf</find>
+      <find>paraf</find>
+      <find>post_disposisi</find>
+      <find>data_surat</find>
+      <find>Cb_koreksi</find>
+      <find>hapus</find>
+      <find>catatan</find>
+      <find>disposisi</find>
+      <find>getd</find>
+      <find>imagePath</find>
+      <find>instruksi</find>
+      <find>dialog</find>
+      <find>Dialog_Ins</find>
+      <find>tv_catatan</find>
+      <find>group_catatan</find>
+      <find>setuju</find>
+      <find>lihat</find>
+      <find>gone</find>
+      <find>btn</find>
+   

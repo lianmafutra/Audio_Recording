@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="pixel" />
+        <device id="4in WVGA (Nexus S)" />
+        <device id="pixel_3_xl" />
+        <device id="pixel_3a_xl" />
+        <device id="Nexus 7" />
+        <device id="pixel_3" />
+        <device id="tv_1080p" />
+        <device id="Nexus 10" />
+        <device id="8in Foldable" />
+        <device id="3.3in WQVGA" />
+      </config>
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
+    <option name="TOOL_WINDOW_REGEXP_FILTER" value="false" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="10388356-7d23-481e-827b-87f3d4afff39" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_menu__pesan_masuk_detail.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_menu__pesan_masuk_detail.xml" afterDir="false" />
+    </list>
+    <list id="00838fec-f02d-4ec5-81e9-938b8e26a7ac" name="Fix login UI + scroll keyboard" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="127.0.0.1:62025" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="sisamsul5" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="sisamsul5" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="valueResourceFile" />
+        <option value="Interface" />
+        <option value="layoutResourceFile" />
+        <option value="Singleton" />
+        <option value="resourceFile" />
+        <option value="Class" />
+        <option value="layoutResourceFile_vertical" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>CB_instruksi_ya</find>
+      <find>textView10</find>
+      <find>txt_notif_pesanmasuk</find>
+      <find>txt_pegawai</find>
+      <find>txt_kepada</find>
+      <find>Dialog_</find>
+      <find>DialogPasswordShow</find>
+      <find>passcheck</find>
+      <find>set</find>
+      <find>post_persetujuan</find>
+      <find>dialog_paraf</find>
+      <find>paraf</find>
+      <find>post_disposisi</find>
+      <find>data_surat</find>
+      <find>Cb_koreksi</find>
+      <find>hapus</find>
+      <find>catatan</find>
+      <find>disposisi</find>
+      <find>getd</find>
+      <find>imagePath</find>
+      <find>instruksi</find>
+      <find>dialog</find>
+      <find>Dialog_Ins</find>
+      <find>tv_catatan</find>
+      <find>group_catatan</find>
+      <find>setuju</find>
+      <find>lihat</find>
+      <find>gone</find>
+      <find>btn</find>
+      <find>btn_</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="7be00bfe1257718c2c0bdd64f226d91e90f11507" />
+      </map>
+    </option>
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/java/goid/jambikota/SiSamsuL/Adapter/Adapter_pesan_masuk.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/goid/jambikota/SiSamsuL/Adapter/Adapter_pesan_terkirim.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_menu_terkirim_list.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/goid/jambikota/SiSamsuL/Activity/Pesan_terkirim/Menu_terkirim_list.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/goid/jambikota/SiSamsuL/Activity/Pesan_terkirim/Menu_Terkirim.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_menu_detail_surat.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/goid/jambikota/SiSamsuL/Activity/Pesan_terkirim/Menu_Terkirim_detail.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/goid/jambikota/SiSamsuL/Activity/Buat_surat/FilterSearchRecycleView/MutliSelectAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/goid/jambikota/SiSamsuL/Activity/Buat_surat/FilterSearchRecycleView/MultiSelectModel_instruksi.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/goid/jambikota/SiSamsuL/Activity/Buat_surat/FilterSearchRecycleView/MultiSelectModel.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/goid/jambikota/SiSamsuL/Util/Download/Open_file.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_view_image.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/goid/jambikota/SiSamsuL/Util/Download/DownloadTask.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/goid/jambikota/SiSamsuL/Util/view_document.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/goid/jambikota/SiSamsuL/Util/view_image.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_dialog_info_surat.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/menu/layout_upload_file.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/layout_upload_file.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/goid/jambikota/SiSamsuL/Activity/Menu_Bantuan.java" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/goid/jambikota/SiSamsuL/Activity/Menu_Home.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/goid/jambik
