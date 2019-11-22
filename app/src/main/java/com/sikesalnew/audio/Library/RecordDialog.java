@@ -159,7 +159,7 @@ public class RecordDialog extends DialogFragment {
                         e.printStackTrace();
                     }
                 }
-                _clickListener.OnClickListener(_AudioSavePathInDevice,file.getName());
+                _clickListener.OnClickListener(_AudioSavePathInDevice,file.getName(),file);
             }
         });
 
@@ -346,6 +346,6 @@ public class RecordDialog extends DialogFragment {
 
     public interface ClickListener
     {
-        void OnClickListener(String path, String filename);
+        void OnClickListener(String path, String filename, File file);
     }
 }

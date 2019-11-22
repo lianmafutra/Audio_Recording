@@ -16,6 +16,7 @@ import android.widget.Toast;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.sikesalnew.audio.Library.RecordDialog;
 
+import java.io.File;
 import java.util.UUID;
 
 
@@ -29,6 +30,7 @@ public class MainActivity extends AppCompatActivity implements Runnable   {
     SeekBar seekBar;
     FloatingActionButton fab;
     String filenames;
+    File audio_file;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -66,12 +68,11 @@ public class MainActivity extends AppCompatActivity implements Runnable   {
                 recordDialog.show(MainActivity.this.getFragmentManager(),"TAG");
                 recordDialog.setPositiveButton("Simpan", new RecordDialog.ClickListener() {
                     @Override
-                    public void OnClickListener(String path, String filename) {
+                    public void OnClickListener(String path, String filename, File file) {
                         txt_file.setText(path);
                         txt_name.setText(filename);
+                        audio_file=file; // set file from audio record
                         try{
-
-
                             filenames=filename;
                         }catch(Exception e){
                             e.printStackTrace();
